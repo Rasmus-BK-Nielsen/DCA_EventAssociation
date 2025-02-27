@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{44788235-DDFA-4268-9BED-38808A5F6B4F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\OneDrive - ViaUC\Sync\Concrete Domain Model.drawio = ..\..\OneDrive - ViaUC\Sync\Concrete Domain Model.drawio
+		..\..\OneDrive - ViaUC\Sync\Concrete Domain Model.drawio.svg = ..\..\OneDrive - ViaUC\Sync\Concrete Domain Model.drawio.svg
+		..\..\OneDrive - ViaUC\Sync\DomainModel_Aneimic.drawio = ..\..\OneDrive - ViaUC\Sync\DomainModel_Aneimic.drawio
+		..\..\OneDrive - ViaUC\Sync\DomainModel_Aneimic.drawio.svg = ..\..\OneDrive - ViaUC\Sync\DomainModel_Aneimic.drawio.svg
+		..\..\OneDrive - ViaUC\Sync\GroupMembers.md = ..\..\OneDrive - ViaUC\Sync\GroupMembers.md
+		..\..\OneDrive - ViaUC\Sync\ReadMe.md = ..\..\OneDrive - ViaUC\Sync\ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
